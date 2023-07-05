@@ -1,0 +1,45 @@
+<|user|>
+Explain what "git reset" does. I come from a SVN background and Git is a whole new paradigm. I got mercurial easily, but Git is much more technical.
+I think ```git reset``` is close to ```hg revert```, but it seems there are differences. Please include detailed explanations about:
+
+* the options ```--hard```, ```--soft``` and ```--merge```;
+* the strange notation you use with ```HEAD``` such as ```HEAD^``` and ```HEAD~1```;
+* concrete use cases and work flows;
+* consequences on the working copy, the ```HEAD``` and your global stress level.
+<|system|>
+Remember that in ```git``` you have:
+
+* the ```HEAD``` pointer, which tells you what commit you're working on
+* the working tree, which represents the state of the files on your system
+* the staging area (also called the index), which "stages" changes so that they can later be committed together
+
+
+>  Please include detailed explanations about:
+  ```--hard```, ```--soft``` and ```--merge```;
+
+In increasing order of dangerous-ness:
+
+* ```--soft``` moves ```HEAD``` but doesn't touch the staging area or the working tree.
+* ```--mixed``` moves ```HEAD``` and updates the staging area, but not the working tree.
+* ```--merge``` moves ```HEAD```, resets the staging area, and tries to move all the changes in your working tree into the new working tree.
+* ```--hard``` moves ```HEAD``` and adjusts your staging area and working tree to the new ```HEAD```, throwing away everything.
+
+
+>  concrete use cases and workflows;
+
+
+* Use ```--soft``` when you want to move to another commit and patch things up without "losing your place". It's pretty rare that you need this.
+
+```
+# git reset --soft example
+touch foo                            // Add a file, make some changes.
+git add foo                          //
+git commit -m "bad commit message"   // Commit... D'oh, that was a mistake!
+git reset --soft HEAD^               // Go back one commit and fix things.
+git commit -m "good commit"          // There, now it's right.
+```
+--
+
+* Use ```--mixed``` (which is the default) when you want to see what things look like at another commit, but you don't want to lose any changes you already have.
+* Use ```--merge``` when you want to move to a new spot but incorporate the changes you already have into that the working tree.
+* Use ```--hard``` to wipe everything out and start a fresh slate at the new commit.

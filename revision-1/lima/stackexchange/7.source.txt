@@ -1,0 +1,42 @@
+<|user|>
+I want to put a draft watermark using the below script but the problem is that the watermark don't come over the images and I want it to come over it.
+```\usepackage{draftwatermark}
+\SetWatermarkText{DRAFT}
+\SetWatermarkScale{1}
+```
+<|system|>
+The problem is that the ```draftwatermark``` places the material in the background, so other elements (for example, figures and listings) might cover the included material; to prevent this, instead of using the ```draftwatermark``` package, you can use the ```xwatermark``` package; the starred variant of ```\newwatermark``` places the material in the foreground which seems to be what you need. A little example:
+First, with the unstarred variant (material on the background, so a figure will be placed on top of it):
+```\documentclass{article}
+\usepackage[printwatermark]{xwatermark}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\newwatermark[allpages,color=red!50,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
+\begin{document}
+\lipsum[1-2]
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=3cm]{example-image-a}
+\end{figure}
+\lipsum[1-2]
+\end{document}
+```
+
+And now, with the starred variant (material on the foreground, so it will appear on top of figures):
+```\documentclass{article}
+\usepackage[printwatermark]{xwatermark}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\newwatermark*[allpages,color=red!50,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
+\begin{document}
+\lipsum[1-2]
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=3cm]{example-image-a}
+\end{figure}
+\lipsum[1-2]
+\end{document}
+```
+

@@ -1,0 +1,39 @@
+<|user|>
+My USB drive used to be originally 8GB when I bought it.
+I'm trying to reformatted in Windows 7 by right clicking on the drive and selecting ```Format...```. But the capacity only shows 250MB.
+Is there something I can do to get the original size back? Maybe it got partitioned in a weird way? 
+The  flash drive is a SanDisk Cruzer Micro 8GB. 
+<|system|>
+The command line procedure is not simple, but it is the most likely thing to work. 
+When re-formatting the "drive" you're actually only formatting a partition on the drive. You need to use the diskpart utility to remove the partitions and create 1 single partition covering the full volume.
+```diskpart``` can be a bit dangerous, because if you pick the wrong disk or partition, you can remove data or partitions that are extremely, EXTREMELY important and lose all data on your machine. 
+Proceed with extreme caution!
+Open up a command prompt as administrator (open the start menu, type ```cmd``` and press Enter.)
+Type ```diskpart``` and press Enter. You'll end up with a new prompt that looks like this:
+```DISKPART>
+```
+Type
+```list disk 
+```
+and you'll get a listing of all drives on your machine. 
+Type
+```select disk # 
+```
+to select a disk, where ```#``` is the number of the disk Windows screw-balled. Usually, the device is disk 1, but it's always best to make sure.
+Then type
+```list partition 
+```
+to get a listing of all partitions on the disk.
+If you're sure you have the right disk/partition, you can then repeat typing
+```select partition # 
+delete partition 
+```
+until all partitions are removed from that drive (you may need to type ```delete partition override``` for protected partitions).
+Once the drive is empty, exit diskpart and remove the drive. Wait at least 5 minutes, then re-insert the drive. DO NOT CLICK FORMAT – this will most likely re-create the problem. Instead, enter diskpart again, and select the disk. Then type
+```create partition primary 
+```
+Once you have created the partition, exit ```diskpart``` and, in the command promt, type 
+```diskmgmt.msc 
+```
+This will provide a reliable way to create a FAT32 partition. On the drive you would like to format (NEVER TOUCH DISK 0!), right click and select ```format```. The ```allocation unit size``` option should be default, and the ```File System``` option should be set to ```FAT32```. The format may take a while, depending on the disk size, be patient.
+This should fix partition troubles on any readable USB flash drive.

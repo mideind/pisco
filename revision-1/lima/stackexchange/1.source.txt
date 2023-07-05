@@ -1,0 +1,13 @@
+<|user|>
+Say, a table ```car``` has one-to-one relationship to tables ```electric_car```, ```gas_car```, and ```hybrid_car```. If a ```car``` is ```electric_car```, it can no longer appear in ```gas_car``` or a ```hybrid_car```, etc. 
+Is it a bad practice to have several mutually exclusive one-to-one relationships in database design?
+<|system|>
+The different types of cars are an instance of a general problem that surfaces over and over again in data modeling.  It is called "generalization/specialization" in ER modeling, and "superclass/subclass" in object modeling.  
+An object modeler uses the inheritance features built into the object model to solve the problem quite easily.  The subclasses simply extend the superclass.
+The relational modeler is faced with a problem.  how to design the tables so as to emulate the benefits that one would get from inheritance?  
+The simplest technique is called single table inheritance.  Data about all types of cars are grouped into a single table for cars.  There is a column, car_type, that groups together all the cars of a single type.  No car can belong to more than one type.  If a column is irrelevant to, say, electric cars,  it will be left NULL in the rows that pertain to electric cars.
+This simple solution works well for the smaller and simpler cases.  The presence of a lot of NULLs adds a tiny bit to storage overhead, and a little bit to retrieval overhead.  The developer may have to learn SQL three-valued logic if boolean tests are done on nullable columns.  This can be baffling at first, but one gets used to it.
+There is another technique, called class table inheritance.  In this design, there are separate tables for gas_car, electric_car, and hybrid_car, in addition to a combined table, car, for all of them.  When you want all of the data about a specific kind of car, you join the car table with the appropriate specialized table.  There are fewer NULLs in this design, but you do more joining.  This technique works better in the larger and more complex cases.
+There is a third technique called shared primary key.  This technique is often used in conjunction with class table inheritance.  The specialized tables for the subclasses have, as their primary key, a copy of the primary key of the corresponding entry in the car table.  This id column can  be declared to be both the primary key and a foreign key.
+This involves a little extra programming when new cars are to be added, but it makes the joins simple, easy, and fast.
+Superclasses and subclasses happen all the time in the real world.  Don't be afraid.  But do test your initial design for performance. If your first attempt is simple and sound, you'll be able to tweak it to speed it up.
