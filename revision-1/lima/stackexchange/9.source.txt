@@ -1,0 +1,42 @@
+<|user|>
+How is arc defined in TikZ?
+<|system|>
+```\draw (x,y) arc (start:stop:radius);``` draws an arc
+
+* with radius ```radius```
+* starts from ```(x,y)```
+* with center ```(x-r*cos(start), y-r*sin(start))``` and
+* ends at ```(x-r*cos(start)+r*cos(stop), y-r*sin(start)+r*sin(stop))```.
+
+For example,
+``` \draw[red] (0,0) arc (30:60:3);
+```
+draws an arc
+
+* of radius ```3```
+* starting from ```(0,0)```
+* with center ```(0-3*cos(30),0-3*sin(30))``` and
+* ending at ```(0-3*cos(30)+3*cos(60),0-3*sin(30)+3*sin(60))```.
+
+```\draw[blue] (0,0) -- ++(30+180:3) -- +(60:3);
+```
+draw a blue line to the arc to make a complete sector.
+
+Minimal Working Example
+```\documentclass[tikz,border=12pt]{standalone}
+\begin{document}
+\foreach \start/\stop in {30/60,45/90,135/180,0/180,45/315}
+{
+    \begin{tikzpicture}
+        \draw[lightgray,ultra thin] (-6,-6) grid (6,6);
+        \draw[red] (0,0) arc (\start:\stop:3);
+        \draw[blue] (0,0) -- ++(\start+180:3) -- +(\stop:3);
+        \node[anchor=north] at (0,6) {$(\start:\stop:3)$};
+    \end{tikzpicture}
+}
+\end{document}
+```
+
+
+
+

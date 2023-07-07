@@ -1,0 +1,6 @@
+<|user|>
+Can meat spoil outside the fridge if it's baked into bread as a filling?
+<|system|>
+There are two differences between your buns and a tin can.
+First, your buns were heated to a core temperature of under 100°C. Yes, your oven was probably set way higher, but the water content in your filling prevents it from getting hotter than boiling water. Commercial canning is done in the vicinity of 120-130°C, which is possible because the cans are cooked under pressure. So unlike in a can, most pathogens were destroyed, but not necessarily all of them. For human consumption, that’s perfectly fine as long as the remaining ones don’t get the time-temperature combo to regrow.
+Second, a bread dough may be dense (although the aim is usually something different), but by no means airtight. Interestingly, wrapping meat in dense dough was used as preservation method in medieval times - the “ancestor” of today’s pork pies and pastries. But while the hard flour crust (not intended to be eaten originally) did form a protective layer and usually extended the shelf life more or less, it was by no means food safe judged by modern standards - although some pies were stored for months. But your fluffy buns are truly not a protective layer. Which means you should refrigerate your buns, but also that you get to enjoy the whole dish.

@@ -1,0 +1,51 @@
+<|user|>
+I'm interested in Japanese politics. Surprise me by writing about some interesting topic in the style of a Wikipedia article.
+
+<|system|>
+Japanese politics is a fascinating topic. Here is a Wikipedia-style article about Article 9 of the Japanese Constitution, which is unique to Japan:
+
+Article 9 of the Japanese Constitution (日本国憲法第9条, Nihon koku kenpō dai kyū-jō) is a clause in the national Constitution of Japan outlawing war as a means to settle international disputes involving the state. The Constitution came into effect on 3 May 1947, following the surrender of Japan in World War II. In its text, the state formally renounces the sovereign right of belligerency and aims at an international peace based on justice and order. The article also states that, to accomplish these aims, armed forces with war potential will not be maintained. The Constitution was imposed by the occupying United States (Supreme Commander for the Allied Powers) in the post-World War II period.
+
+There are the post-occupation U.S. military stationed in Japan under the U.S.-Japan Mutual Cooperation and Security Treaty and Japan Self-Defense Forces (JSDF) which was founded in 1954 as de facto postwar Japanese military. Prime Minister Shinzo Abe approved a reinterpretation which gave more powers to the JSDF in 2014, which was made official in 2015.
+
+##Text of the article
+
+The full text of the article in Japanese:
+> 日本国憲法
+> 第二章　戦争の放棄
+> 第九条　日本国民は、正義と秩序を基調とする国際平和を誠実に希求し、国権の発動たる戦争と、武力による威嚇又は武力の行使は、国際紛争を解決する手段としては、永久にこれを放棄する。
+> ②　前項の目的を達するため、陸海空軍その他の戦力は、これを保持しない。国の交戦権は、これを認めない。
+
+The official English translation of the article is:
+> ARTICLE 9. (1) Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as means of settling international disputes.
+> (2) In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be sustained. The right of belligerency of the state will not be recognized.
+
+##Historical background
+
+The failure of the collective security of the League of Nations led to the realization that a universal system of security could only be effective if nations agreed to some limitation of their national sovereignty with regard to their right to belligerency, and if the Security Council which had been a "closed shop" during League of Nations times, would open itself up to UN Members who would cede constitutional powers in favor of collective security. Article 9 was added to the 1947 constitution during the occupation following the defeat of Japan in World War II.
+
+The source of the pacifist clause is disputed. According to the Allied Supreme Commander Douglas MacArthur (in statements made at a time when the U.S. was trying to get Japan to re-arm), the provision was suggested by Prime Minister Kijūrō Shidehara, who "wanted it to prohibit any military establishment for Japan—any military establishment whatsoever". Shidehara's perspective was that retention of arms would be "meaningless" for the Japanese in the post-war era, because any substandard post-war military would no longer gain the respect of the people, and would actually cause people to obsess with the subject of rearming Japan.
+
+The House of Representatives amended the Article and added “Aspiring sincerely to an international peace based on justice and order,” to Paragraph 1 and “In order to accomplish the aim of the preceding paragraph,” to Paragraph 2. Hitoshi Ashida made this tenor. Many scholars think the Government of Japan does not renounce the right (to have power) of self-defense because of this amendment.
+
+The article was endorsed by the Imperial Diet of Japan on 3 November 1946. Kades later made statements, like MacArthur at a time when the U.S. was trying to get Japan to rearm, that suggested he had initially rejected the proposed language that prohibited Japan's use of force "for its own security", believing that self-preservation was the right of every nation. The historical record, however, casts doubt on this revisionist interpretation.
+
+##Interpretation
+
+Soon after the adoption of the Constitution of Japan on 3 May 1947, the Chinese Civil War ended in victory for the Chinese Communist Party in 1949 and the establishment of the People's Republic of China (PRC). As a consequence, the United States was left without the Republic of China (ROC) on Mainland China as a military ally against communism in the Pacific. There was a desire on the part of the United States occupation forces for Japan to take a more active military role in the struggle against communism during the Cold War.
+
+In 1950, following the outbreak of the Korean War, the U.S. 24th Infantry Division was pulled out of Japan and sent to fight on the front lines in Korea, and so Japan was left without any armed protection. MacArthur ordered the creation of a 75,000-strong National Police Reserve (警察予備隊, Keisatsu yobitai) to maintain order in Japan and repel any possible invasion from outside. The NPR was organized by United States Army Col. Frank Kowalski (later a U.S. congressman) using Army surplus equipment. To avoid possible constitutional violations, military items were given civilian names: tanks, for instance, were named "special vehicles".
+
+On 1 August 1952, a new National Safety Agency (保安庁, Hoancho) was formed to supervise the NPR and its maritime component. In 1954, the National Safety Agency became the Japan Defense Agency (now Ministry of Defense), and the National Police Reserve became the Japan Self-Defense Forces (自衛隊, Jieitai). In practice, the Japan Self-Defense Forces (JSDF) are very well equipped and the maritime forces are considered to be stronger than the navies of some of Japan's neighbors. The Supreme Court of Japan has reinforced the constitutionality of armed self-defense in several major rulings, most notably the Sunakawa Case of 1959, which upheld the legality of the then-current U.S.–Japan Security Treaty.
+
+##Debate
+
+Article 9 of the Constitution of Japan is best understood as having three distinct elements: (1) a provision that prohibits the use of force (paragraph one); (2) a provision that prohibits the maintenance of armed forces or "other war potential" (paragraph two, clause one); and (3) a denial of the rights of belligerency. It is helpful to keep these distinct elements in mind in considering the operation and effect of Article 9. Paragraph one, which prohibits the use of force has been highly effective in constraining Japanese foreign policy, with the result that Japan has not used force or been engaged in armed conflict since the promulgation of the Constitution.
+
+Despite the fading of bitter wartime memories, the general public, according to opinion polls, continued to show strong support for this constitutional provision.
+
+The different views can be clearly organized into four categories:
+* The current **pacifists** believe in maintaining Article 9 and claim the JSDF is unconstitutional, and would like to detach Japan from international wars. A stricter interpretation could also include peacekeeping operations.
+* The **mercantilists** have divided opinions about Article 9 although the interpretation is broadened to include the JSDF, and believe that the JSDF's role should be retained to activities related to the United Nations and for non-combat purposes. They advocate minimal defense spending, and emphasize economic growth.
+* The **normalists** "call for incremental armament for national defense and accept using military force to maintain international peace and security". They support the revision of Article 9 to include a clause explaining the existence and function of the JSDF.
+* The **nationalists** assert that Japan should remilitarize and build nuclear capabilities in order to regain pride and independence. They also advocate revision or, in extreme cases, the repeal and abolishment of Article 9 to promote renewed rearmament.
