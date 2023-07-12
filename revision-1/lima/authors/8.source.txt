@@ -1,0 +1,8 @@
+<|user|>
+What is the difference between parliamentary and presidential democracies?
+<|system|>
+Democracies come in various shapes and sizes. One way of classifying democracies is into presidential, semi-presidential, and parliamentary democracies. The key differences lie in the checks and balances between the executive branch (the government) and the legislative branch (the legislature):
+
+* In a presidential democracy, the government is not responsible to the legislature, i.e. it cannot be removed by a vote of no-confidence. For example, in the United States, the president is elected separately from Congress, and cannot be removed by congress during their term, apart from extreme circumstances (impeachment and conviction).
+* In a semi-presidential democracy, the head of state is elected independently of the legislature, and is not responsible to the legislature, but the government is. For example, France is a semi-presidential democracy, where the president is elected directly by the citizens, but the government and prime minister are voted in by the parliament.
+* In a parliamentary democracy, the government is responsible to the legislature, aligning the executive and legislative branches. Many parliamentary democracies elect their head of state via the legislature, while others, such as the United Kingdom, have a hereditary head of state.

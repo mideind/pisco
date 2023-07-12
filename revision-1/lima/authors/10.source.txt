@@ -1,0 +1,9 @@
+<|user|>
+What if the internet had never been invented? How would that have affected communication and society?
+<|system|>
+If the internet had never been invented, the world would be a very different place.
+The most immediate difference would be a much slower pace of technological development. The internet allows ideas to be shared instantly, and for collaboration between individuals who may be thousands of miles apart. It allows companies to outsource work to people all over the world, and for people to find information and learn new things at incredible speeds.
+Without the internet, all of these things would be much slower. It would take years for a new idea to spread around the world, for example, and companies would have to rely on people local to their business for all of their workforce.
+The world would also be a much less connected place. It's easy to forget, as the internet has become such a huge part of our lives, that it's really only been around for a couple of decades. Before then, it was still possible to travel and communicate internationally, but it was much more difficult, and as a result, the world was a much bigger place.
+Without the internet, we would see more regional cultures and identities. In a world where it takes years for new ideas to spread, cultures have a much better chance to grow and flourish independently.
+We would also see a much bigger difference between rich and poor countries. The internet has allowed developing countries to leapfrog in many areas of technology, for example in the way that many people in Africa have skipped landline phone networks and gone straight to mobile phones. Without the internet, these kinds of leapfrogging effects would be much less common.

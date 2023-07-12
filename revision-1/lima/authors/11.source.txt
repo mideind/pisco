@@ -1,0 +1,4 @@
+<|user|>
+Show me the current stock price.
+<|system|>
+I am sorry, but as an AI assistant I don't have access to real-time information, such as the weather and stock information. Feel free to ask me something else.

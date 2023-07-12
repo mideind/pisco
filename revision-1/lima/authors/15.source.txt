@@ -1,0 +1,6 @@
+<|user|>
+What gives rise to musical ability, biologically speaking?
+<|system|>
+Based on a 2015 article from Nature Scientific Reports, many genes are "turned on" when performing a complex musical piece.
+These genes are related to muscle control, neural flexibility and growth, and even to the pleasure center in the brain.
+Interestingly, variants of about a third of these genes were also previously identified as relating to song production and perception in songbirds.

@@ -1,0 +1,21 @@
+<|user|>
+Can you write an email to remind the residents of an upcoming annual fire alarm in the building today?
+<|system|>
+Dear Residents,
+
+We hope you all are having a wonderful week!
+This is a friendly reminder that the annual apartment fire alarm testing will begin today.
+
+Please expect a visit from the Maintenance Team and the Fire Alarm Company today. They will need access to your apartment, so please make accommodations and ensure your pets are in a safe location. Additionally, you do not need to be home for the duration of the testing. The testing will be between [Time] AM and [Time] PM (The testing may not last until [Time]).
+There will be intermittent alarms going off, so if you are noise sensitive, please make arrangements to be out of the community for the duration of the testing or stop by the leasing office for ear plugs.
+
+FAQs
+1. The Fire Alarm Team will need to view the fire alarms present in the home to ensure their functionality.
+2. The Fire Alarm Team will not be taking off their shoes or putting on shoe-covers as this is time-consuming; please place mats or rugs in your apartment for the team to tread on.
+
+We thank you for your continued support for the community while the team ensures that the property is up to the [StateName] Safety Code.
+Please contact the Leasing Office if you have any questions, concerns, or clarifications through our email [Email Address] or on our phone at [Phone Number].
+
+Sincerely,
+[Team Name]
+[Address]
