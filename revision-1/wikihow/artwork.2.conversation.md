@@ -1,29 +1,60 @@
 <|user|>
-Hvernig setur maður upp listasýningu?
+Hvernig bý ég til gínu frá grunni?
 <|system|>
-1. Veljið undirskrift sem er listræn og læsileg. 
-Undirskrift þín ætti að auðkenna þig sem skapara greinarinnar. Venjan er að nota bæði eiginnafn og eftirnafn. Ef þú ert með tiltekið nafn sem þú notar sem listamaður eða skjánafn sem stafrænn listamaður gætirðu þó viljað nota það í staðinn. Til dæmis ef þú setur list þína á netið og ert þekktari undir skjáheiti þínu en eiginnafn og eftirnafn, gætirðu viljað skrifa undir skjámyndina með skjáheiti þínu (þó að þú gætir einnig notað hvort tveggja).\n\Tryfið að skrifa undirskriftina á margvíslegan hátt þar til þú finnur þann sem þér líkar best við. Mundu að þetta er vörumerkið þitt! Þú átt eftir að nota hana á öll listaverk sem þú skapar og því er mikilvægt að þér líki við hana.
+1. Fyrst þarftu að velja bol sem þér er sama um að eyðileggja. Bolurinn þarf líka að passa vel við búkinn þinn því það mega ekki vera hrukkur á bolnum. Vertu viss um að bolurinn sé það langur að hann fari niður aö mjöðmum þínum. Hafðu í huga að þessum bol verður ekki hægt að bjarga því það verður sett á hann límband og svo verður skorið í bolinn.
 
-2. Með sömu undirskrift getur fólk auðveldlega borið kennsl á verk þín.
-Undirskriftin þín er svipuð og merki vörumerkis og ætti því að vera á öllum listgreinum sem þú skapar. Þegar þú byggir upp aðdáendahóp finna þeir undirskriftina þína strax og vita þegar þeir hafa hrasað á hlut af þinni.\n\nEf fólk sér listgrein þína og líkar við hana getur það einnig notað undirskriftina til að leita að nafni þínu og finna aðra listmuni sem þú hefur búið til. Yfirleitt vill maður líka setja undirskriftina á sama almenna stað á hverjum hlut, svo að þú íhugir staðinn vandlega—þú vilt ekki vera fastur með eitthvað sem virkar ekki fyrir hvern hlut sem þú skapar.
+2. Þekið háls og kraga með plasti.
+Rífðu nóg af plastfilmu til að þekja allan háls og kraga. Settu plastfilmuna utan um hálsinn þinn en vertu fínn í hreyfingum svo plastið rifni ekki. Þegar þú ert búinn að þekja allan hálsinn með plasti skaltu stinga báðum endunum undir plastfilmuna svo hún haldist föst þarna. Ef þú átt ekki plastfilmu þá er hægt að nota pappírsþurkur í staðinn.
 
-3. Stimpill eða rekja undirskriftina þína stafrænt svo að hún sé nákvæmlega eins á hverju stykki.
-Þótt sumir kynnu að telja þetta „svindl“ er það\-ið í raun ekki—það\-er bara besta leiðin til að tryggja að undirskriftin sé alltaf sú sama. Með stimpli eða sniðmáti getur þú einnig sett undirskrift þína á aðra hluti en listaverk þitt.\n\n Sem dæmi má nefna að ef þú ert með eftirfarandi á samfélagsmiðlum gætir þú ákveðið að búa til mussur eða boli með undirskriftinni á þeim og selt aðdáendum þínum.\nMeð stafrænni list er nokkuð auðvelt að búa til stafrænan stimpil sem þú getur einfaldlega bætt við bútinn þegar hann er búinn.
+3. Vefðu límbandi utan um búkinn þinn en bara fyrir neðan brjóstkassann.
+Vefðu límbandinu þétt utan um búkinn en ekki svo þétt að þú eigir erfitt með að anda. Þetta skref og restin af þessu skrefi er tveggja manna verkefni.
 
-4. Þessi ábending á við ef þú hefur búið til málverk eða teikningu.
-Líttu á undirskrift þína sem framhald á listaverkinu sjálfu. Með því að nota annan miðil fyrir undirskriftina er hægt að kryfja og draga athyglina frá listinni.\n\nMeð málverki viltu almennt nota sömu tegund af málningu og þú notaðir í málverkinu sjálfu. Ef þú notaðir akrýlmálningu myndirðu því undirrita hana í akrýl, á meðan þú undirritar vatnslitamálningu með vatnslitamálningu. Veldu lit sem er aðgreindur frá litunum í kringum hann svo undirskriftin blandist ekki í aðra hluta listarinnar.\nFyrir sumar tegundir listgreina er þetta bara ekki hægt. Ef þú ert til dæmis ljósmyndari, þá skrifar þú yfirleitt undir myndina með penna eða merkipenna.
+4. Merktu búkinn þinn að framan með límbandi sem er eins og kross í laginu.
+Límbandiðá að byrja á vinstri öxl og enda rétt undir hægra brjósti. Hiit límbandið fer frá hægri öxl og niður undir vinstra brjóst. Ef þú hefur gert þetta rétt þá ættirðu að enda með kross þar sem miðjan er milli brjóstanna.
 
-5. Þetta er hinn hefðbundni staður fyrir undirskrift á listaverk.
-Neðra hornið hægra megin er að jafnaði talið „endir“ listaverks, þannig að það\-er eðlilegur staður fyrir undirskriftina. Sumir listamenn nota neðra hornið vinstra megin en neðra hornið hægra megin er mun algengara.\n\Síðan algengasti staðurinn fyrir undirskrift er að áhorfendur myndlistar þinnar leiti þangað sjálfkrafa til að komast að listamanninum. Ef þið fylgið þessari hefð þurfa menn ekki að leggja mikið á sig til að finna undirskriftina.\n Ef búturinn verður rammaður skal hafa líklega þykkt rammans í huga þegar þið undirritið bútinn ykkar svo undirskriftin verði ekki hulin rammanum.
+5. Haltu svo áfram að bæta við límbandi yfir axlir, brjóst og bak.
+Settu límband sem byrjar á bakinu, fer yfir öxl og yfir brjóstið þitt. Gerðu þetta þar til þú ert búinn að hylja báðar axlirnar. Best er að límböndin skarist um 1.3 sentimentra.
 
-6. Sumir safnarar hafa gaman af því að sjá daginn sem verki var lokið.
-Það er vissulega ekki gerð krafa um að bæta árinu sem þú laukst við greinina við undirskriftina en margir listamenn gera það. Ef þú ert að búa til verk í röð eru dagsetningar sérstaklega gagnlegar vegna þess að gallerí eða safnarar geta sett stykkin í röðina í rétt röð.\n\Jafnvel fyrir einstök verk sem eru ekki í röð, ef dagsetningunni er bætt við hjálpar það aðdáendum þínum að rekja þróunina sem listamanni.\nKnowing þegar þú ert búinn að skrifa verk getur einnig verið verðmætar upplýsingar sem hjálpa til við að selja verk, einkum ef árið eða dagsetningin hefur einhverja sérstaka þýðingu.
+6. Fylltu í eyðurnar sem eru undir handarkrikunum þínum.
+Rífðu límbandið í smærri ræmur og límdu ræmurnar lárétt á rifbeinin þín undir handakrikunum. Límbandið á svo að sameinast límbandinu sem fór yfir axtir. Aftur er mikilvægt að límbandsræmurnar skarist um 1.3 sentimetra. 
 
-7. Prófaðu þetta ef undirskriftin myndi taka frá stykkið.
-Notaðu eigin listræna dómgreind hér. Ef þú heldur að undirskrift þín myndi eyðileggja skilaboðin sem listaverkið þitt er að reyna að flytja eða söguna sem það\ssegja, gætirðu viljað setja það á bakhliðina í staðinn.\n\nEf þú\-selur prent, er einnig gott að afhenda prent á bakhliðina sem viðbótarleið til að auðkenna greinina og auka gildi hennar því hún\-undirritað af listamanninum. „\nÞú gætir einnig látið fylgja viðbótarupplýsingar um stykkið með undirskriftinni á bakhliðinni, s.s. hvaða miðlar eru notaðir og hvenær þeir eru útfylltir. 
+7. Settu límband á bak og brjóstkassa þar sem á eftir að setja.
+Þú ættir nú að vera kominn með v-laga límband á brjóstkassa og bak. Haltu áfram að fylla bakið á bolnum og framhlið með límbandi. Vertu viss um að límbandið fari á plastfilmuna ef bolurinn er stuttur að ofan.
 
-8. Vinnið undirskrift yðar að heildarhönnun verksins.
-Með því að fella undirskrift þína inn í sjálfa myndlistina býrðu til viðbótarauðkenningu. Þó að þú undirritir listaverkið neðst eða aftan á það gæti undirskriftin týnst.\nÞetta er sérstaklega verðmæt tækni fyrir stafræna listamenn því undirskrift í miðju verksins er ekki svo auðsniðin. Ef þú hefur áhyggjur af því að fólk steli verkum þínum á netinu og eigni þér ekki listamanninn getur þetta verið góð lagfæring. 
+8. Settu næst límband utan um hálsinn þinn
+Vefðu límbandi utan um hálsin þinn, en passaðu uppá að það þrengi ekki að öndunarvegi. Notaðu svo smærri ræmur af límbandi til að fylla út í þá staði sem eru ekki núþegar með límband.
 
-9. Skrifið undir greinina um leið og það er tilbúið.
-Ef þú\-ið ert að vinna í málningu eða leir skaltu undirrita stykkið þitt áður en það\-ið er þurrt. Þetta hleður undirskriftinni inn í listaverkið sjálft svo það\-er erfiðara að fjarlægja.\nEf þú skrifar undir verk þitt strax, þá er líklegra að það falli að heildarsamsetningu stykkisins. Ef þú lætur verkið sitja í smátíma gætirðu hins vegar átt í erfiðleikum með að komast aftur inn á það „svæði“ sem þú varst á þegar þú skapaðir verkið upphaflega.
+9. Síðast þarftu að fylla út restina af bolnum með límbandi.
+Vefðu límband utan um neðri hlutann á bolnum og fylltu í allar eyður sem eru eftir á bolnum. Settu aðeins límband á bolinn, ekki fara neðar en bolurinn leyfir.
+
+10. Klipptu límbandið af bolnum.
+Fáðu hjálp við að klippa límbandið af bolnum aftan frá, frá hálsi og niður allt bakið. Það þarf að klippa í gegnum bolinn og plastfilmuna.
+
+11. Farðu úr bolnum.
+Núna ættirðu að vera kominn með búk úr límbandi sem líkist þínum búk. Ef þú finnur eitthvað á búknum sem er ekki eins og líkaminn þinn í laginnu þá er hægt að ýta í límbandið með fingrum til að fá úr því rétt form.
+
+12. Límdu saman það sem þú klipptir af bolnum og límbandinu. Límdu búkinn saman þar sem þú klipptir í tvennt. Fyrir aukið öryggi geturðu sett límband bæði á innra og ytra borð búksins.
+
+13. Hreinsaðu til efri og neðri part búksins
+Ef þú ert ánægður með efri og neðri part búksins þá geturðu sleppt þessum kafla. Hinsvegar geturðu sett meira límband á búkinn ef þú vilt fínpússa endana. Ef þú klippir smá hluta af hálsinum þá er það í lagi, svo lengi sem það líkist gínu en vertu samt viss um að hálsinn verði ekki of stuttur.
+
+14. Fylltu búkinn af pólýesterfyllingu
+Þegar þú ert að fylla búkinn af pólýesterfyllingu er sniðugt að hylja hálsopið svo fyllingin fari ekki út um hinn endann. Haltu áfram að fylla þar til búkurinn er fullur. Til þess að fylla búkinn þarftu um það bil 2 poka af fyllingu.
+
+15. Teiknaðu eftir gínunni á pappa eða frauðplast
+Settu gínuna upprétta á stóran pappa og teiknaðu ummál gínunnar á pappann. Þetta verður grunnur fyrir neðri hluta gínunnar.
+
+16. Skerðu eftir teikningunni á pappanum með beittum hníf
+Passaðu að skera rétt innan við línurnar sem þú dróst. Vertu nákvæmur þegar þú ert að skera.
+
+17. Límdu neðri búk gínunnar við efri búkinn
+Byrjaðu á að snúa efri hluta gínunnar á hvolf og settu pappann sem þú skarst áðann út í neðri hluta gínunnar. Settu litla búta af límbandi á endana á pappanum þar sem þú skarst. Þú mátt líka setja límband yfir allann pappann svo það passi við efri búk gínunnar.
+
+18. Settu límband yfir efri hluta gínunnar eins og þú gerðir fyrir neðri hluta
+Klipptu út pappa sem passar í hálsinn og límdu hann þar svo ekkert sjáist inn í gínuna. Settu límband yfir allann pappan svo ekki sjáist í hann.
+
+19. Festu neðri helming á málmsúlu
+Notaðu trausta málmsúlu eins og ljósastaur sem botninn fyrir gínuna. Klipptu út holu í gínuna sem er nógu stór til að komast yfir málmsúluna og settu gínuna svo þar. Festu gínuna í réttri hæð með heitu lími sem þú setur á gínuna þar sem hún snertir málmsúluna þannig að límið þekji bæði súluna og gínuna. Ef þú vilt aukið öryggi geturðu notað epoxý eða mjög sterku lími. Ef þú ert að nota ljósastaur er mikilvægt að klippa alla víra sem koma úr staurnum.
+
+20. Ef þú vilt þá geturðu þakið gínuna í efni
+Auðveldasta leiðin til þess að þekja gínuna í flíkum væri með skyrtu. Þú getur líka saumað flík sem hylur alla gínuna.
