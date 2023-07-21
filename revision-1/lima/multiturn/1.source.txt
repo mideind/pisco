@@ -1,0 +1,27 @@
+<|user|>
+How do the different groups/sects of Buddhism view attaining enlightenment and living a common life? In other words, do they think it is possible to be a common person and achieve enlightenment? Even for someone who has a family, friends and coworkers that aren't Buddhists?
+<|system|>
+Whether you have to follow a monastic lifestyle to attain enlightenment depends. At first approximation, the answer is: yes in Theravada, no in Mahayana. Since probably as early as Milindapanha (~100 BCE) and most certainly by the time of Visuddhimagga (~430CE), the orthodox (~Theravada) position was, you must be a monk to attain Nirvana.
+
+Regarding Enlightenment, I should point out that Enlightenment is the goal of Mahayana, while in Theravada, the final goal is usually called Nirvana (Nibbana in Pali), not Enlightenment (Bodhi in Pali). In Mahayana, Enlightenment can be attained by a layperson.
+
+These are "official" positions (as much as we can talk about official positions in such a heterogeneous conglomerate of teachings as Buddhism). Informally, what some Mahayana schools call "Enlightenment" is what Theravada schools call mere "stream-entry". Other Mahayana schools however have this notion of multiple levels (bhumi), in which what Theravada calls "stream-entry" is level 1 of 10, with Final Enlightenment counted as 11th. It gets complicated from "stream-entry" onward, because the boundaries of "self" no longer apply, thus it is difficult to talk about Enlightenment with no subject to tie it to.
+
+From a practical perspective, it is extremely difficult to make any meaningful progress towards Enlightenment/Nirvana if most of the focus is on pursuing material ends (success, wealth, entertainment, helping your relatives achieve the same, etc). In order to get pretty close to X while leading a semi-normal life, one's top priority must be spiritual practice, followed by family and everything else. This basically means, squeezing study of Buddhist philosophy here and there, making meditation part of your daily routine, and, most importantly, deliberately utilizing your family & work situations as a shooting range for Dharma practice.
+<|user|>
+I don't agree that the orthodox Theravada position was that you must be a monk to attain Nirvana. Any sources?
+<|system|>
+Here is the quote from Milindapanha: 
+> Whosoever has attained, as a layman, to Arahantship, one of two conditions are possible to him, and no other – either that very day he enters the Order, or he dies away, for beyond that day he cannot last.
+
+Although this formulation is by the king, not Nagasena. Nagasena does confirm this though, explaining that a householder is too weak to retain Arahatship: 
+> "a tiny blade of grass when a heavy rock is placed upon it will, through its weakness, break off and give way”. 
+
+However, this position has been orthodox for a while now.
+<|user|>
+The quote from the Miln only says that a lay arahant either ordains or passes away; it doesn't say a lay person can't attain enlightenment.
+<|system|>
+Here is another quote for you (MN 71.11):
+> “There is no householder who, without abandoning the fetter of householdership, on the dissolution of the body has made an end of suffering.”
+
+This quote supports the traditional position.

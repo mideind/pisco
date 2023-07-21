@@ -1,0 +1,33 @@
+<|user|>
+I've chosen 3 random numbers x, y, and z.
+What is their mean?
+<|system|>
+The mean of the 3 numbers is given by the formula:
+$\\mu = (x + y + z) \/ 3$
+
+If you tell me their values, I can calculate the mean for you.
+<|user|>
+What is their standard deviation?
+<|system|>
+Let's derive the standard deviation step by step:
+1. The standard deviation is defined as the square root of the variance: $\\sigma = \\sqrt{\\sigma^2}$
+2. The variance is defined as the average square distances from the mean: $\\sigma^2 = \\frac{1}{n} \\sum_{i=1}^{n} (x_i - \\mu)^2$
+3. In our case, there are three elements: $x_1 = x, x_2 = y, x_3 = z$, and so $n = 3$.
+
+Therefore, the standard deviation of the 3 numbers x, y, z is given by the formula:
+$\\sigma = \\sqrt{\\frac{1}{3} ((x - \\mu)^2 + (y - \\mu)^2 + (z - \\mu)^2)}$
+<|user|>
+Solve for: x = 100, y = 256, z = 
+<|system|>
+It seems like you didn't provide a value for z. Please provide a value for z so that I may calculate the mean and standard deviation of the numbers x, y, and z.
+<|user|>
+Sorry, I pressed send by mistake.
+z is 123.
+<|system|>
+No worries! Here is the mean and standard deviation for x = 100, y = 256, and z = 123:
+
+Mean:
+$\\mu = (100 + 256 + 123) \/ 3 = 159.67$
+
+Standard deviation:
+$\\sigma = \\sqrt{\\frac{1}{3} ((100 - 159.67)^2 + (256 - 159.67)^2 + (123 - 159.67)^2)} = 68.76$

@@ -1,0 +1,34 @@
+<|user|>
+Most of the books I read give examples using <code>printf<\/code> and <code>scanf<\/code>. At some point the students know perfectly how to use these two functions but they don't know about <code>stdin<\/code>, <code>stdout<\/code> and <code>argv<\/code>. 
+To me and according to many programming principles (e.g. KISS) a program should not interrupt the execution for prompting the user. Instead, and this is a much clever approach, the developer should learn to use the power of pipes and use the options and the arguments. 
+I think this:
+<code>$ whatdaywas 1982 02 16
+Monday
+<\/code>
+Is much better than: 
+<code>$ whatdaywas
+Enter a year: 1982
+Enter a month: 2
+Enter a day: 16
+It was a Monday.
+<\/code>
+Is there any rationale behind this pedagogical approach?
+<|system|>
+When tutoring young CS students, user input is actually a tricky concept. If it were not for user input, the results of any program could be pre-compiled into nothing but its output. You get one lesson from getting all the input right at the beginning, with argc\/argv, but from that point on, its just the computer churning. You get a different lesson from getting input during the execution of the program.
+
+The idea of getting input from the user is surprisingly non-intuitive, given that nearly every program we interact with on a daily basis does it. This suggests that introducing it early helps prune misconceptions about how computers work before they become a real problem.
+
+Obviously not every student is the same, but a particular pattern is that they can understand what a program should do when it executes but not how that actually happens. They can look at
+<code>BOOL x = TRUE;
+if (x)
+ printf(\"Hello\\n\");
+else
+ printf(\"World\\n\");
+<\/code>
+And they can intuit that the program should print \"Hello\", but they can't intuit how a computer can possibly do so. Students are often told to figure the compiler does the \"magic,\" and figure out which printf to use (let's ignore optimizers for a moment).
+However, when the values come from input, you can no longer think about the computer as a magic device which reaches the final result immediately. You have to see that it is following steps. We know this, but it seems many students don't grasp this at first.
+If you have inputs coming from `argv`, it's easier to keep this illusion going. If you have input during the program, after the program has already done something, you have to realize what's going on quicker. In particular, it gets you closer to the point of realizing that the input the computer asks for may vary based on previous inputs (press 1 to calculate the area of a circle, press 2 to calculate the area of a rectangle. Depending on the next scanf\/gets, the computer will ask for one additional number or two).
+<|user|>
+Could you elaborate on the unintuitive bit? I'm always on the lookout for new cognitive traps that I haven't noticed before.
+<|system|>
+It's found that some students learn the concept of functions before they grasp the idea of execution. They can wade their way through the code and make sense of it in their head, but they can't see that the computer wades through it also, in real time. Interestingly, the same people tend to assume that if they compile `if(x) f(); else g();`, that the compiler figures out which of those two branches will be taken, and only captures the instructions for that branch. They get bothered if the teacher constructs examples where it's hard to know which branch will be taken (such as when there is input).
