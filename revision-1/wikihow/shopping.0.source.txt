@@ -1,0 +1,99 @@
+How to calculate the list price of an item on sale?
+
+Method 1
+Calculating the List Price
+
+
+1
+Assess what information you know. In order to calculate the list price, or the original price, of an item on sale, you need to know what the sale price is, and what the discount percent is.
+For example, you might know that a sweater is on sale for $51.75 after a 25% discount.
+
+
+2
+Convert the discount percent to a decimal. Remember that percents are hundredths, so to convert, either divide the percent by 100, or simply place a decimal after the number and move it two places to the left.[1]
+For example, 25% expressed as a decimal is .25.
+
+
+3
+Set up an equation for finding the original price of a discounted item. Use the formula S=P−PDS=P-PD, where SS equals the sale price of the item, PP equals the original price of the item, and DD equals the discount percent of the item. [2]
+
+
+4
+Plug the sale price into the formula. Make sure you substitute for the variable SS.
+For example, if the sales price is $51.75, your formula will look like this: 51.75=P−PD51.75=P-PD.
+
+
+5
+Plug the discount percent into the formula. Make sure you use the decimal form of the discount, and substitute for the variable DD.
+For example, if the item is 25% off, your formula will look like this: 51.75=P−P(.25)51.75=P-P(.25).
+
+
+6
+Use the distributive property to simplify the formula. To do this, pull out the variable PP.[3]
+For example:
+51.75=P−P(.25)51.75=P-P(.25)
+51.75=P(1−.25)51.75=P(1-.25)
+
+
+7
+Complete the calculation in parentheses. This will give you the percent of the item’s original price that the sales price represents.[4]
+For example, 1−.25=.751-.25=.75. So, if an item is 25% off, you would only pay 75% of the original price to purchase the item on sale. Your formula will look like this: 51.75=P(.75)51.75=P(.75).
+
+
+8
+Divide each side of the equation by the percent of the original price. This will give you the value of PP, the list price of the item.
+For example:
+51.75=P(.75)51.75=P(.75)
+51.75.75=P(.75).75{\frac {51.75}{.75}}={\frac {P(.75)}{.75}}
+69=P69=P
+So the original price of a sweater marked $51.75 after a 25% discount is $69.00.
+Method 2
+Calculating the Sale Price
+1
+Assess what information you know. In order to calculate the sale price of an item, you need to know what the original or list price is, and what the discount percent is.
+For example, you might know that a sweater is $69 and on sale for 25% off.
+
+
+2
+Convert the discount percent to a decimal. Remember that percents are hundredths, so to convert, either divide the percent by 100, or simply place a decimal after the number and move it two places to the left.[5]
+For example, 25% expressed as a decimal is .25.
+
+
+3
+Multiply the original price by the discount percent.[6] Make sure you use the decimal form of the percent. This will give you the discount, in dollars, off the original price.
+For example, 69×.25=17.2569\times .25=17.25. So, $17.25 is the discount off the original price.
+
+
+4
+Subtract the discount amount from the original price of the item. This will give you the sale price.[7]
+For example, 69−17.25=51.7569-17.25=51.75. So, the sale price of a $69 sweater that is 25% off is $51.75.
+Method 3
+Calculating the Discount
+
+
+1
+Assess what information you know. In order to calculate the discount percent of an item, you need to know what the sale price is, and what the original or list price is.
+For example, you might know that a sweater’s original price is $69, and that it is on sale for $51.75.
+
+
+2
+Subtract the sale price from the original price. This will give you the markdown amount, the amount of dollars taken off the original price.
+For example, since 69−51.75=17.2569-51.75=17.25, $17.25 was taken off the price of the sweater.
+
+
+3
+Set up a discount formula for your item. Use the formula M=PDM=PD, where MM equals the markdown, in dollars, of the item, PP equals the original price of the item, and DD equals the discount percent of the item.[8]
+
+
+4
+Plug the original price and the markdown into the formula. Be sure to substitute the original price for the variable PP, and the markdown for the variable MM.
+For example, if a sweater, originally $69, has a markdown of $17.25, your formula will look like this: 17.25=69D17.25=69D.
+
+
+5
+Divide each side of the equation by the original price. This will give you the percent of the discount as a decimal. To convert to a percent, move the decimal point two places to the right.
+For example:
+17.25=69D17.25=69D
+17.2569=69D69{\frac {17.25}{69}}={\frac {69D}{69}}
+.25=D.25=D
+So, a $69 sweater on sale for $51.75 is 25% off.
