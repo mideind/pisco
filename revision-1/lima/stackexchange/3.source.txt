@@ -1,0 +1,25 @@
+<|user|>
+View tabular file such as CSV from command line, having horizontal and vertical scrolling would be great.
+<|system|>
+Sure, please take a look at csvkit. It provides a set of tools that adhere to the UNIX philosophy (meaning they are small, simple, single-purposed and can be combined). 
+
+Here is an example that extracts the ten most populated cities in Germany from the free Maxmind World Cities database and displays the result in a console-readable format:
+```$ csvgrep -e iso-8859-1 -c 1 -m "de" worldcitiespop | csvgrep -c 5 -r "\d+"
+  | csvsort -r -c 5 -l | csvcut -c 1,2,4,6 | head -n 11 | csvlook
+-----------------------------------------------------
+|  line_number | Country | AccentCity | Population  |
+-----------------------------------------------------
+|  1           | de      | Berlin     | 3398362     |
+|  2           | de      | Hamburg    | 1733846     |
+|  3           | de      | Munich     | 1246133     |
+|  4           | de      | Cologne    | 968823      |
+|  5           | de      | Frankfurt  | 648034      |
+|  6           | de      | Dortmund   | 594255      |
+|  7           | de      | Stuttgart  | 591688      |
+|  8           | de      | Düsseldorf | 577139      |
+|  9           | de      | Essen      | 576914      |
+|  10          | de      | Bremen     | 546429      |
+-----------------------------------------------------
+```
+
+Csvkit is platform independent because it is written in Python. 

@@ -1,0 +1,15 @@
+<|user|>
+Were there any flying dinosaurs?
+<|system|>
+Birds are both flying dinosaurs and flying reptiles. Yes, that's potentially confusing.
+
+To understand the apparent contradiction, you have to understand how modern classification of organisms works (phylogenetic systematics). Under the old (Linnean) classification system, Reptilia (reptiles) was an order and Aves (birds) was a separate order. Phylogenetic systematics, which has completely replaced the Linnean system, views all organisms as interrelated in a nested set of monophyletic groups (clades). It's like a set of venn diagrams, where all organisms fall into a giant circle and then successively smaller circles classify more and more specific groups.
+
+The clade Reptilia includes snakes, lizards, crocodiles, and lots of extinct groups, including dinosaurs. So all dinosaurs are reptiles. The clade Dinosauria includes all the extinct dinosaurs (Stegosaurus, Triceratops, sauropods, etc.), including theropod dinosaurs, which include well known dinosaurs like Tyrannosaurus and Allosaurus. Based on a mountain on anatomical evidence, including lots of transitional fossils, living birds are a sub-group of theropod dinosaurs.
+
+So all birds (Aves) are theropod dinosaurs (Dinosauria: Theropoda). All dinosaurs are reptiles. Therefore, birds are dinosaurs and reptiles. They are just more closely related to dinosaurs than to other reptiles.
+The tricky part is that most people have an intuitive idea of what "reptiles" and "dinosaurs" are. To a systematist, whose job it is to classify organisms, these terms don't mean the same thing as they do to most people. Systematists think about groups like Reptilia and Dinosauria and how those groups are related to one another. So they have no problem saying that birds are dinosaurs and reptiles, because birds are nested within both of those groups.
+
+A few words about pterosaurs
+Along with birds and bats, pterosaurs are the other clade of vertebrates capable of powered, flapping flight. Pterosaurs fall within Reptilia (and Diapsida and Archosauria) along with Dinosauria, which includes birds. There are a lot of other extinct lineages in the tree that are not shown, e.g., ornithodirans that are not dinosaurs and not pterosaurs. Pterosaurs and birds share anatomical features that all reptiles, diapsids, archosaurs, and ornithodirans have, which is how we know that they are more closely related to each other than to other groups, like crocodiles. But their flight structures evolved independently and are anatomically distinct fro one another. So pterosaurs are flying reptiles but not flying dinosaurs.
+These images might help you understand the above explanation.

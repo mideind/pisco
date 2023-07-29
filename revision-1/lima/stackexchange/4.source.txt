@@ -1,0 +1,20 @@
+<|user|>
+Does Java casting introduce overhead? Or the compiler just resolves everything and there is no cost at run time?
+Is this a general things, or there are different cases?
+<|system|>
+There are 2 types of casting in Java:
+
+Implicit casting, when you cast from a type to a wider type, which is done automatically and there is no overhead:
+```String s = "Cast";
+Object o = s; // implicit casting
+```
+Explicit casting, when you go from a wider type to a more narrow one. For this case, you must explicitly use casting like that:
+```Object o = someObject;
+String s = (String) o; // explicit casting
+```
+In this second case, there is overhead in runtime, because the two types must be checked and in case that casting is not feasible, JVM must throw a ClassCastException.
+
+Taken from JavaWorld: The cost of casting
+
+> Casting is used to convert between types -- between reference types in particular, for the type of casting operation in which we're interested here.  Upcast operations (also called widening conversions in the Java Language Specification) convert a subclass reference to an ancestor class reference. This casting operation is normally automatic, since it's always safe and can be implemented directly by the compiler. Downcast operations (also called narrowing conversions in the Java Language Specification) convert an ancestor class reference to a subclass reference. This casting operation creates execution overhead, since Java requires that the cast be checked at runtime to make sure that it's valid. If the referenced object is not an instance of either the target type for the cast or a subclass of that type, the attempted cast is not permitted and must throw a java.lang.ClassCastException.
+
