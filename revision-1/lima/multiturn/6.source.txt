@@ -1,0 +1,46 @@
+<|user|>
+I'm hosting friends for dinner tomorrow. What's an easy recipe that will impress?
+<|system|>
+How about Italian cuisine? Pasta is usually a crowd pleaser, and not too difficult to prepare. Here's a recipe for **tortellini carbonara**:
+
+Ingredients:
+* 1lb of cheese tortellini
+* 2 cups heavy cream
+* 1 cup grated parmesan cheese
+* 1/2 cup fresh parsley, chopped
+* 8 strips of bacon, chopped
+
+Directions:
+1. Cook the tortellini in boiling water. When ready, drain the cooking water.
+2. At the same time, fry bacon over medium heat until crisp in a large pan. Stir from time to time to prevent the bacon from burning. Once ready, remove the bacon and drain on paper towels.
+3. In same pan, pour the cream, cheese, parsley and bacon. Cook over medium heat, until ready.
+4. Add the tortellini into the pan, and stir for under a minute until the pasta is embossed with the sauce.
+5. Serve and enjoy!
+<|user|>
+Sounds delicious, but we're Jewish.
+<|system|>
+My apologies. Allow me to suggest a kosher alternative that uses salmon as the main protein instead of bacon. Since fish are considered parve (neutral) in Jewish dietary laws, they can be eaten alongside dairy products. Here is a recipe for **creamy salmon linguine**:
+
+Ingredients:
+* 1lb linguine
+* 1lb broccoli florets
+* 1lb Atlantic salmon filet
+* 2 tablespoons butter
+* 2 garlic cloves, minced
+* 2 cups heavy cream
+* juice from 1 lemon
+* 1 cup grated parmesan cheese
+* 1/2 cup fresh parsley, chopped
+* 1/4 teaspoon salt
+* 1/4 teaspoon pepper
+
+Directions:
+1. Preheat the oven to 350F. Bake the salmon in a baking tray until ready (approximately 15 minutes, depending on slice). When ready, separate the cooked salmon from the skin, and shred it using two large forks on a separate plate.
+2. Meanwhile, cook linguine in boiling water. Add broccoli during the last 5 minutes of cooking. When ready, drain the cooking water.
+3. In a large pan, melt the butter over medium heat. Add the garlic and stir for 1 minute. Stir in the cream and the lemon juice, and bring to a boil. Lower the heat and keep stirring for 3 minutes to reduce the sauce.
+4. Add the salmon, followed by the linguine and broccoli. Top with the parmesan cheese, parsley, salt, and pepper, stirring all the ingredients for 1-2 minutes.
+5. Serve and enjoy!
+<|user|>
+Thanks! Can you pair a wine for this meal?
+<|system|>
+I recommend pairing the creamy salmon linguine with a full-bodied white wine, such as Chardonnay. However, selecting the right bottle of wine is really a matter of personal taste.
