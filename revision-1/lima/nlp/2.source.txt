@@ -1,0 +1,8 @@
+<|user|>
+Extract two facts from the following text.
+
+The giant panda is a bear species endemic to China. It is characterized by its bold black-and-white coat and rotund body. The giant panda lives in a few mountain ranges in central China, mainly in Sichuan.
+<|system|>
+This text contains the following two facts: 
+1. The giant panda is characterized by its bold black-and-white coat and rotund body. 
+2. The giant panda is endemic to China and mainly lives in Sichuan.

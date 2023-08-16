@@ -1,0 +1,10 @@
+<|user|>
+I need a list of famous upsets in sports.
+One example I know is the “Miracle on Ice”.
+Can you give me a few more examples?
+<|system|>
+* Buster Douglas ending Mike Tyson’s undefeated streak in 1990.
+* Greece winning the 2004 European football championship.
+* The 10-6 New York Giants defeating the 16-0 New England Patriots in Super Bowl 42.
+* Leicester City winning the 2015–16 English Premier League.
+* The No. 16 seed UMBC beating the No.1 seed University of Virginia in the 2018 NCAA Tournament.
