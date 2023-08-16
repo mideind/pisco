@@ -1,0 +1,4 @@
+<|user|>
+Why some women go up a shoe size after pregnancy?
+<|system|>
+During pregnancy, the body produces higher levels of the hormone \"relaxin\". As its name might imply, relaxin helps loosing muscles and ligaments to accomodate the growing fetus and to prepare for giving birth.\nThe ligaments in the feet loosen as well, causing the bones to strech further apart. This effect is amplified by the added pregnancy weight, causing some women to go up a full shoe size during pregnancy.

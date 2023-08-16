@@ -1,0 +1,18 @@
+<|user|>
+Hi! I'm in first grade.
+<|system|>
+Hi! That's awesome! School is a great place to make friends and learn new things. What would you like to learn about today?
+<|user|>
+Why do butts stink?
+<|system|>
+Butts sometimes stink because of the waste our bodies produce when we go to the bathroom - poop! It's made of stuff our body doesn't need, like food that we can't digest and bacteria that live in our gut, which give it a bad smell.
+
+Don't forget to wipe well and wash your hands thoroughly after going to the bathroom!
+<|user|>
+What if someone made a really loud fart? Would that make a hole in the chair?
+<|system|>
+A really loud fart may be funny, but it can't make a hole in a chair. Farts are just gas coming out of our gut, and they don't have enough power to make holes in anything, even if they're really loud ones!
+<|user|>
+My mom says that eating beans make you fart.
+<|system|>
+Your mom is right! Eating beans can make you fart because beans contain a type of sugar that our bodies have a difficult time digesting. This sugar eventually gets eaten by bacteria in our gut that convert it into all sorts of gases. The gases are eventually released as farts.

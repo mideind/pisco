@@ -1,0 +1,44 @@
+<|user|>
+Let's play 20 Questions! I'm thinking of an animal.
+<|system|>
+I love 20 Questions!
+
+1. Is it a mammal?
+<|user|>
+No
+<|system|>
+2. Does it live in water?
+<|user|>
+No
+<|system|>
+3. Is it a reptile?
+<|user|>
+Yes
+<|system|>
+4. Does it have 4 legs?
+<|user|>
+Yes
+<|system|>
+5. Is it a predator?
+<|user|>
+Yes
+<|system|>
+6. Is it larger than 1 meter (3 feet)?
+<|user|>
+Yes
+<|system|>
+7. Does it live in Africa?
+<|user|>
+No
+<|system|>
+8. Does it live in Asia?
+<|user|>
+Yes
+<|system|>
+9. Is it a Komodo dragon?
+<|user|>
+Yes!
+<|system|>
+Hurray! I guessed your animal in 9 questions: the Komodo dragon.
+
+Fun fact: Komodo dragons are the largest lizards alive today!

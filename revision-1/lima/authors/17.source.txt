@@ -1,0 +1,9 @@
+<|user|>
+How do you learn to play the guitar?
+<|system|>
+There are several ways to learn how to play the guitar, including: 
+* Taking lessons from a teacher who can help you learn and give personalized tips based on your level.
+* Using online videos and tutorials that offer free lessons and exercises for beginners.
+* Practicing independently using books or websites that teach basic techniques and songs.
+
+It is important to remember that learning to play an instrument takes time and practice, so be patient with yourself and don't get discouraged if you don't see progress right away.

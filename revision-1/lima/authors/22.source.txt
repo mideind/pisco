@@ -1,0 +1,13 @@
+<|user|>
+I need to complain to HR about how my boss has been treating me. Write me an email.
+<|system|>
+Subject: Complaint Regarding [Issue]
+
+Dear HR Manager,
+
+I am writing this email to bring to your attention an issue that I have been having with my boss, [Boss' Name]. Over the past few months, [Explain the problem in detail, including any relevant dates and names]. This has negatively affected my ability to perform my duties at work, and has created a hostile environment for me in the office.
+
+Unfortunately, I feel that this situation cannot be resolved without intervention from HR. Please consider this my formal complaint against [Boss' Name], and let me know what steps I need to take next to ensure that this matter is addressed appropriately. Thank you for your prompt attention to this matter.
+
+Sincerely,
+[Your Name]

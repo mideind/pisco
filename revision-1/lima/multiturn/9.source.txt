@@ -1,0 +1,16 @@
+<|user|>
+Temperature conversion:
+$$273 + \text{degree Celsius} = \text{Kelvin}$$
+Actually, why is that $273$? How does one come up with this?
+<|system|>
+One Celsius (or Kelvin) degree as a temperature difference was defined as 1/100 of the temperature difference between the freezing point of water and boiling point of water. These points are called 0 °C and 100 °C, respectively. The number 100 arose because we're used to numbers that are powers of ten because we use the base-ten system. The Celsius degree is "one percent" of the temperature difference.
+
+There also exists the minimum temperature that one may achieve. In Kelvin degrees, it's sensible to call this minimum 0 K: that's a primary condition on the "natural" temperature scales such as the Kelvin scale. If one insists that one Kelvin degree is equally large as one Celsius degree as a unit of temperature difference, it just turns out that the melting point of ice has to be 273.15 K and the boiling point of water is 373.15 K. It's because the temperature difference between the boiling and freezing points is 2.7315 times smaller than the temperature difference between the minimum allowed temperature, the absolute zero, and the freezing point of water.
+
+The value 2.7315 cannot be easily explained in simple words. It represents a specific characteristic related to water, a natural phenomenon that arises from the principles of quantum mechanics. To understand this value, extensive simulations are required to analyze the behavior of water molecules across a wide range of temperatures. Through experimental evidence, we have confirmed that this value accurately reflects the properties of water.
+<|user|>
+Why don't people go to a logarithmic scale (kind of like decibels), at least for low temperatures. Then there would be no lower limit.
+<|system|>
+Exponential notation adequately handles temperatures that are sufficiently low. What is important is that temperature is just energy per degree of freedom and energy is additive, thus all nonlinear redefinitions of $T\to f(T)$ would be unnatural. Also note that for the ideal gas, we have $pV=nRT$, so at a fixed pressure (or volume), the volume (or pressure) is proportional to $T$. We don't express pressures and volumes in terms of their logarithms, either, so it would be equally unnatural for the temperature.
+
+The log scale is always a sort of "policymaking issue", making it easy for people to say simple numbers instead of powers of ten which are "complicated constructs" for most laymen. It's the only justification for decibels, pH, Richter scales, and other things: you just don't want the laymen to ever pronounce "ten to the power of [a number]", that's the only reason. But people achieved just a billionth of kelvin, that's the record, and those small numbers aren't extreme and one can express them in words like billionth without using "ten to minus [a big power]".

@@ -1,0 +1,8 @@
+<|user|>
+What is the genetic significance of humans being either left-handed or right-handed?
+<|system|>
+Handedness is a very interesting phenomenon, but it is not as simple as being either left or right handed.
+In most people the brain is asymmetrical, with some functions, such as language, being localised to one hemisphere. In most people this is the left hemisphere, which leads to these people being right handed as they use their dominant hand to perform tasks involving fine motor control, such as writing. Left handed people have their language centres in the right hemisphere, and while they may perform other tasks with their left hand they can often do tasks involving fine motor control with either hand.
+There are also people who are truly ambidextrous, capable of performing tasks with either hand equally well. These people, while rare, do not have brains that are symmetrical, but have developed connections between the two hemispheres that allow them to access both motor cortices.
+The genetics of handedness are complex and not well understood. There does appear to be a genetic component, but it is not straightforward. Identical twins who are brought up in the same environment are not always both left or right handed, suggesting that environmental factors also play a role.
+One of the most interesting things about handedness is how early it becomes apparent. Children as young as two years old can be assessed for handedness, and it is very rare for a child's handedness to change over time. This suggests that it is very strongly influenced by genetics, with environmental factors playing a minor role.

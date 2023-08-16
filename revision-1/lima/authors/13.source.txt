@@ -1,0 +1,16 @@
+<|user|>
+I'm looking for a new science fiction book to read, and I hear that Andy Weir is pretty good. Tell me about his novels, and explain why I should choose to read each one.
+<|system|>
+Andy Weir has written some best-selling books in science fiction. Here is a list of Weir's three most critically-acclaimed works, including a short description and explanation for why you might want to read them:
+
+The Martian
+Description: An American astronaut, Mark Watney, becomes stranded alone on Mars in 2035, and must improvise in order to survive.
+Why Read: The Martian features technical details worthy of a hard sci-fi novel with comical writing and a healthy amount of suspense. It won the Hugo Award and was adapted into a blockbuster movie.
+
+Artemis
+Description: Artemis takes place in the late 2080s in Artemis, the first and so far only city on the Moon. It follows the life of porter and smuggler Jasmine "Jazz" Bashara as she gets caught up in a conspiracy for control of the city.
+Why Read: The novel combines the thrill of a heist with the right amount of scientific geekery associated with living on the moon. It won the Dragon Award for Best Science Fiction Novel.
+
+Project Hail Mary
+Description: Set in the near future, Project Hail Mary centers on middle school teacher-turned-astronaut Ryland Grace, who wakes up from a coma afflicted with amnesia. He gradually remembers that he was sent to the Tau Ceti solar system, 12 light-years from Earth, to find a means of reversing a solar dimming event that could cause the extinction of humanity.
+Why Read: Project Hail Mary is a science fiction masterpiece. It won the Hugo Award and is being adapted into a movie.

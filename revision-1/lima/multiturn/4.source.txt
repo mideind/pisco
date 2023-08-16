@@ -1,0 +1,36 @@
+<|user|>
+Assistant, I need your help. My manager is overworking me. Help me IM them something so that they get off my back.
+<|system|>
+These situations are best resolved in face-to-face conversations, which allow for more holistic and direct communication. However, in some cases, it is difficult to find the right time to discuss such a sensitive topic, and it may be better to communicate one's concerns earlier rather than later. Here is a possible instant message you may want to consider sending to your manager:
+
+Hey [Manager's Name], I wanted to flag an issue regarding my current workload. I feel like it's been increasing recently, to a point where I can no longer ensure that I meet our quality standards and/or the deadlines. While I'm dedicated to my role and always strive to deliver my best, I feel that the current workload is unsustainable.
+
+Could we perhaps set some time to chat to go over my workload, reprioritize, and perhaps delegate some of my tasks to other teammates? Thanks!
+<|user|>
+Not sure that helped... look what they sent me back:
+
+[My Name],
+I understand that this is a tough time for everyone on the team, but I'll be frank with you: this is a startup, not a country club. We all knew that there would be crunch time when we signed up. We're all counting on you to do your part so that we deliver the product on time. You and I both know that this deadline is existential for the company.
+Happy to talk more after the deadline to think about what we can do better in the future to avoid these kinds of sprints.
+<|system|>
+This is a tricky situation. As mentioned earlier, my best advice is to try to explain your situation face-to-face.
+
+You may want to prepare for such a meeting, and perhaps make a list of specific examples that illustrate your concerns and any suggestions you have for improving the situation. Going into the meeting with a constructive and solution-oriented mindset will demonstrate your commitment to the team and your willingness to work together to find a resolution.
+<|user|>
+My manager and I work in completely different time zones, and almost all of our communication is asynchronous via IM. Help me draft a response to his message.
+<|system|>
+Here is a possible response:
+
+Thanks, I appreciate the candor. I completely understand the importance of meeting the deadline, and I'm fully committed to helping the team meet our goals.
+
+Moving forward, I'd love to take you up on that offer and think together about how we can work efficiently throughout the year and manage some degree of work-life balance. Thanks again for your support!
+<|user|>
+Mmm... this feels like I'm caving in. Can you maybe push back a little?
+<|system|>
+Sure, here is a potential response that is slightly more assertive:
+
+Thanks, I appreciate the candor. I completely understand the importance of meeting the deadline, and I'm fully committed to helping the team meet our goals. Having said that, I am concerned that the current state of affairs cannot be sustained for long, and that it may impact the quality of my work in the immediate term.
+
+I suggest that we take a proactive approach and think together about how to prioritize and improve efficiency so that the important tasks are done on time.
+
+Thanks again for your support!

@@ -1,0 +1,10 @@
+<|user|>
+What are the main differences between Xbox and PlayStation?
+<|system|>
+Both Xbox and PlayStation are leading gaming consoles, accounting together for the vast majority of the console market. Some notable differences between the two include:
+
+* Manufacturer: Xbox is developed by Microsoft, while PlayStation is developed by Sony.
+* Games: Both consoles feature a wide selection of games, with some titles distributed exclusively for PlayStation (e.g. God of War) or Xbox (e.g. Halo). PlayStation typically has more exclusive games.
+* Controller: PlayStation has an almost symmetric controller, while the Xbox controller has an offset analog stick, which is more suitable for adult hands.
+
+Additional differences include console design, online services, and VR support. Ultimately, selecting a gaming console depends on your personal preferences.

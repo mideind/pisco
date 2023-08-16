@@ -1,0 +1,4 @@
+<|user|>
+Help me design an app that automatically decides which pizza to order when a group of friends meet.
+<|system|>
+Ordering a pizza in a large group can be tricky, especially if there are varying preferences and dietary constraints. To address this problem, here is a proposal of an automatic pizza ordering app named AutoSlice. AutoSlice is installed on each user's phone, and contains each user's manually configured preferences (e.g. toppings, number of slices, allergies, etc.), which can be adapted in real time when ordering. One user (the host) starts an order and invites the other users to join. The app also uses location services to find nearby pizzerias from which to build a recommended order. Once the order is confirmed, the host can then distribute the bill automatically to each user, or decide to pay for everyone.
