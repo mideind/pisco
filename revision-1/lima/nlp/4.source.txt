@@ -1,0 +1,13 @@
+<|user|>
+You are expected to recognize the named entities of the following text: 
+
+Itamar Rabinovich, who as Israel’s ambassador to Washington conducted unfruitful negotiations with Syria, told Israel Radio looked like Damascus wanted to talk rather than fight.
+<|system|>
+Here are the named entities of the text:
+
+* Itamar Rabinovich: Person
+* Israel: Country
+* Washington: City
+* Syria: Country
+* Israel Radio: Organization
+* Damascus: City

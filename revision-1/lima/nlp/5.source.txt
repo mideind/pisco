@@ -1,0 +1,6 @@
+<|user|>
+Translate the following text into English.
+
+人们应该尊重不同的文化和信仰，互相理解和包容。
+<|system|>
+People should respect different cultures and beliefs and understand and tolerate each other.

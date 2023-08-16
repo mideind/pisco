@@ -1,0 +1,4 @@
+<|user|>
+Is 7765 greater than 7791?
+<|system|>
+7765 - 7791 = -26 < 0, thus no, 7765 is not greater than 7791.

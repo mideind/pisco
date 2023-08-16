@@ -1,0 +1,9 @@
+<|user|>
+A farmer living in the countryside has a certain number of children. One day, they followed him to the farm, each one with a bag to collect harvested apples. At the end of the day, each bag was filled with 15 apples each. On their way back home, 2 of the children have eaten 4 apples each and another child sold 7 of his apples. If they had a total of 60 apples left by the time they got home, how many children does the farmer have?
+<|system|>
+Here is the solution step by step:
+
+2 children sold 4 apples each which gives 2 * 4 = 8 apples
+Another child gave out an additional 7 apples making 8 + 7 = 15 apples removed from the total.
+There were 60 apples left after these, so the original total must have been 15+60 = 75 apples.
+Each child collected 15 apples so there are 75/15 = 5 children.
