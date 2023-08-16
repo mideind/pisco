@@ -1,17 +1,52 @@
-1. If your computer is slow, becoming impatient won't make it any faster.
-Don't click anything too fast or try to refresh the page. This will just confuse the computer and it will run even slower. The best thing to do is just let the page or window load.
+Preventing Hacking 
 
-2. The more documents you delete, the more space you will have on the computer.
-Having more space on your computer can allow everything to run faster. Clear your recycle bin every once in a while to delete unnecessary files.
+1 
+Avoid using public networks. Refrain from connecting to free Wi-Fi networks from coffee shops or other public places. Connecting your device to public networks exposes it potential hackers that can easily get through the low level security of these kinds of networks.
 
-3. Opening up more than two or three web browser tabs will discombobulate your computer.
-Clicking back and forth between several tabs can use up precious RAM and CPU power, and make loading websites take even longer.
+2 
+Avoid using public computers for sensitive business. If you’re about to do some personal transactions like banking or online shopping, do not do it using public computers. Other people who have used the computers before you may have put programs that can record the passwords you type in. 
 
-4. If your computer crashes frequently, you could lose important data.
-Save everything you work on several times. Everything! The last thing you want is to have your computer crash as you top off that 10-page essay.
+3 
+Do not give out your passwords. Keep the passwords of your various accounts to yourself. If you do let someone know, make sure to change it afterwards to prevent that person from accessing your private internet accounts without permission.
 
-5. If the internet is slow, wait until other people have logged off to get online.
-Consider using the internet when everyone in your household is asleep, or essentially not using the internet.
+4 
+Avoid downloading unknown applications. The Internet is full of free software from unknown sources. These kinds of programs normally carry malicious applications with it and installing it may infect and cause serious damage to your computer.
 
-6. Forget videos.
-If you have slow internet speeds or a very old processor, it can take up to half an hour to load one to two-minute video. Unless you can leave your computer alone for hours to let it load, just forget about it. You can live without online videos!
+Method 2 
+Preventing Cyber Bullying 
+
+1 
+Don’t mind bashers. Bashers or “trolls” are Internet surfers that purposely agitate other users to start discussion which may later lead to verbal abuse. 
+If you see people posting or replying bad comments to your online posts, do not reply back. Bashers commonly seek attention and will soon back away if they’re not given any thought. 
+
+2 
+Don’t be affected with what you read. Don’t be emotionally affected by the things you read on the net. Remember that these things are only words and cannot hurt you directly. 
+
+3 
+Report cyber bullies. If you see people verbally harassing other users, talk to the administrators or moderators of the website and report that person who’s bullying other people. 
+
+4 
+Leave the computer. If you can’t seem to find any way to stop cyber bullies, get off the Internet and shut your computer off. Cyber bullies only exist on the Internet and would cease to be as soon as you log out. 
+Method 3 
+Preventing Online Piracy 
+
+1 
+Avoid downloading illegal contents. Purchase media contents straight from legitimate sources only, like iTunes or Amazon. 
+
+2 
+Stop sharing contents freely to other users. Do not share or make copies of music, movies, or any kind of copyrighted media over the internet. Doing so can constitute to online piracy, which is punishable under the federal law. 
+
+3 
+Report any site that shares pirated contents. If you come across websites that shares illegal contents, contact your ISP or local government units responsible for handling such kinds of issues and report these kinds of illegal activities. 
+Method 4 
+Preventing Online Pornography 
+
+1 
+Block pornographic websites. Set the antivirus application you’re using to block websites that shows pornographic contents. If you’re connected to a smaller network, contact your network administrator so they can restrict access to such sites. 
+
+2 
+Talk with the people concerned. Speak with the members of your household who could or potentially be viewing pornographic websites. Explain to them the negative effects of opening such kinds of contents on the internet. 
+Remember that sometimes, the toughest problems can be solved or prevented with a proper discussion. 
+
+3 
+Report any cyber prostitution activities. If you’re aware of any online pornographic activities, such as cyber prostitution, in your area, alert your local authorities so they can take the proper actions and respond promptly to the issue at hand. 

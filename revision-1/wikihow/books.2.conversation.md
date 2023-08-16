@@ -1,36 +1,47 @@
 <|user|>
-Hvernig get ég notið þess að lesa bók sem er búið að spilla fyrir mér?
+Hvernig vel ég góða bók til að lesa?
 <|system|>
-1. Þú þarft að skilja hvað spilling er og hvers vegna þú varðst fyrir henni
-Spilling er þegar þú kemst að mikilvægum þáttum í bókinni sem leiða oft í sér endalok sögunnar án þess að vilja vita það fyrirfram. Þetta eru yfirleitt þeir þættir í bókinni sem eru mest spennandi að lesa. Það eru nokkrar ástæður fyrir spillingu:
-Skrifa gagnrýni um bóka.
-Lesandi er of spenntur og getur ekki beðið með að vita hvað gerist í bókinni.
-Barnalegur vinur þinn sem er að lesa sömu bók segir þér hvað er að gerast án þess um hugsa um afleiðingarnar.
-Einhver sem vill eyðileggja þína upplifun á bókinni eða er bara illgjörn manneskja.
+1. Veldu bók útfrá höfundi sem er í uppáhaldi þínu.
+Þú ert vonandi með nokkra uppáhalds bókahöfunda ef þú lest mikið. Farðu í gegnum lista af bókum eftir þessa höfuna, mögulega finnur þú bók eftir einn af þeim höfundum sem þú hefur aldrei lesið áður. Þú getur fundið listann á vefsíðum eins og Forlagið og Penninn eða í einum af bókunum eftir höfundinn, þá fremst í bókinni eða aftast. Ef þú finnur ekkert nýtt til að lesa þá geturðu alltaf farið aftur í gamlar bækur sem þú hefur lesið áður.
 
-2. Byrjaðu að lesa bókina
-Ástæðan fyrir því að þú ert ekki byrjaður að lesa bókina getur verið útaf röddinni í þér sem segir þér að það sé ekki einu sinni þess virði. Hættu að hlusta á þessa innri rödd og gefðu þér frekar tíma til að byrja á fyrsta kaflanum í bókinni og ákveddu þig svo hvort þú viljir halda áfram eða ekki. Það eru meiri líkur á því að þú haldir áfram að lesa bókina ef fyrsti kaflinn var góður.
+2. Veldu bók sem er nú þegar á vinnsælda listanum með góða dóma
+Það eru svo margar bækur til að lesa að skiljanlega er auðvelt að missa sig í þeim öllum. Þrengdu leit þína að klassískum og margverðlaunuðum bókum. Það er ástæða fyrir því að þessar bækur eru svona vinsælar. Þú getur einnig skoðað þennan lista og valið bók þaðan:
+Metsölulisti Bókabúðar Forlagsins
+Metsölulisti Penninn Eymundsson
+Skáld- og fagurbókmenntir
 
-3. Hafðu góðar væntigar fyrir bókinni
-Þó svo þú vitir af mikilvægu þáttunum í bókinni þá er samt hægt að njóta þess að lesa hana. Þú veist hvað gerist í bókinni en mögulega veistu ekki af hverju og er því bókin góð leið til að vita meira. Það getur engin manneskja spillt fyrir þér mikilvægum atriðum alveg eins og höfundur bókarinnar skrifaði. Þess vegna er mikilvægt fyrir þig sem lesanda að komast að því hvernig mikilvægu þættirnir eiga sér stað í bókinni. Spillingarnar eru oftast bara um mikilvægustu þætti bókarinnar og er því hellingur eftir í bókinni sem þú hefur enn ekki lesið. Kannski finnst þér eitthvað vera mikilvægt í bókinni sem er ekki búið að spilla fyrir þér. Best er að lesa bókina til að komast að því.
+3. Veldu bók sem tengist áhugamáli þínu
+Ef þú hefur enga hugmynd um hvaða bók þú eigir að lesa næst þá geturðu t.d. fundið bók sem líkist raunverulegu lífi þínu. Þetta er góð leið til að tengjast persónum og söguþráð betur. Þú getur líka leitað að lykilorðum á bókavefsíðum eða á Google geturðu leitað að orði sem tengist þínu áhugamáli og bætt við orðið „bók“ eða „skáldsaga“. Ef þú ert bakari geturðu leitað að bók þar sem aðalpersónan er bakari, valið bók um geiminn ef þú hefur áhuga á því eða þú getur leitað að „goðafræði ungur fullorðinn skáldsaga“.
 
-4. Sýndu efasemdir
-Reyndu að ofhugsa ekki það sem þér hefur verið sagt. Það getur alveg eins verið að það sem þú hefur heyrt um bókina er ekki satt og getur því verið gaman að komast að því að spillingin var ekki sönn. Lesturinn á bókinni gæti fengið þig til að hugsa ,,Vá, hvað Jói hafði rangt fyrir sér hvað varðar hans túlkun á hvað persónan gerir í senu X! bull og vitleysa! Persónan gerði X, Y og Z!". Hafðu í huga að ekki allir eru frábærir í frásögnum. Sumir höfundar byrja með endinn á sögunni og útskýra svo í köflunum á eftir (tímabil í öfuga átt). Sumar bækur byrja í miðjum söguþræði með endurupplifunum. Það er margt í bókum sem getur komið þér á óvart þó að einhver hafi spillt fyrir þér mikilvægustu þáttunum. Leyfðu sjálfum þér að vera hissa, líka þegar þú lest kaflann sem var spilltur fyrir þér. Bækur eftir MacGuffins eru góð dæmi um bækur sem er erfitt að spilla fyrir lesandanum því söguþráðurinn er svo það er svo mikið að gerast í sögunni og erfitt að segja í orðum hvað er mikilvægt. Þú getur átt samræður við vin þinn um bók eftir MacGuffins og fengið tvo mismunandi söguþræði úr þeirri samræðu. Sama gæti átt sér stað með bókina sem var spillt fyrir þér. Ekki hugsa of mikið um kaflann sem var spilltur fyrir þér, þú gætir orðið hissa á kaflanum ef þú gerir ekki ráð fyrir honum. Það væri mun stærri skellur ef spillingin er svo ekki sönn. Ímyndaðu þér leikrit eftir Shakespeare eða bíómynd sem byrjar á endanum. Oftast skiptir endirinn ekki mestu máli heldur hvað leiddi til þess að endirinn var ekki öðruvísi.
+4. Spurðu vini, ættingja og starfsmenn í bókabúðum um þeirra tilmæli
+Oft er auðveldast bara að hringja í vin og fá þá til að velja fyrir mann. Ef þú hefur samband við vin þá er best ef sá vinur er líka bókaormur, þannig eru meiri líkur á að þú hafir ekki lesið bókina sem hann mælir með. Biddu um hjálp í bókabúð, segðu starfsfólkinu hvað þú hefur áhuga á. Það er líka hægt að spyrja á samfélagsmiðlum, oft eru fylgjendur með góðar hugmyndir. Bókasafnið sem þú ert með kort hjá gæti verið með lista af bókum eftir uppáhalds höfund.
 
-5. Hafðu í huga að bíómynda- og bókaspilling spila oft saman
-Þú þarft ekki að hafa áhyggjur af því að einhver geti spillt fyrir þér innihaldi bókarinnar ef þú hefur núþegar séð bíómyndina. Bíómyndir eru yfirleitt ekki nógu langar til að fara eins djúpt í söguþráð og bækur gera og eru því miklar líkur á að þú verðir hissa við að lesa bókina því hún gæti innihaldið meira efni. Þættir sem eru gætu verið í bókinni eru:
-Dýpri skilningur á persónunum í bókinni
-Endirinn á bókinni gæti verið öðruvísi í bíómynd (Fyrirtæki eins og Hollywood breyta oft söguþræði í enda myndarinnar)
-Auka persónur, senur, hasar o.s.frv. sem bíómyndin hafði ekki pláss fyrir.
+5. Leitaðu á netinu að nýjustu dómum og meðmælum á bókum
+Það getur auðveldað þér vinnu þínu ef þú ert með á hreinu hvaða nýju bækur eru á vinnsældarmarkaðnum. Þú getur meðal annars skráð netfangið þitt á bókasíður sem senda reglulega netfang með upplýsingum um nýjar bækur og einkunn á þeim.
 
-6. Lærðu að elska spillingu frá öðrum
-Sumir finna fyrir hvatningu við að heyra hvernig bókin endar og eru líklegri til að lesa hana fyrir vikið. Fyrir suma er það of stressandi að vita ekki hvernig sagan endar og er því oft best fyrir þá að vita hvað gerist áður en byrað er að lesa bókina. Þú getur fundið vefsíður sem eru gerðar bara fyrir spillingu. Þar eru fullt af meðlimum sem fá að rökræða um efni bókarinnar.
+6. Skoðaðu lista af bókum sem eru hluti af þínu áhugamáli
+Vefsíður og bókasamfélög á netinu eru oft góð leið til að finna lista af þeim bókum sem þú hefur áhuga á. Þú getur íhugað að skoða lista af síðunum til að finna titil sem þér líst vel á.
 
-7. Reyndu að komast hjá því að vera í umhverfi þar sem spilling á sér stað
-Það eru tilfelli þar sem þú ert líklegri til að heyra mikilvæga þætti úr bók eins og t.d. bókaklúbbur. Það er alltaf einhver í bókaklúbbnum sem er búinn að lesa bókina og bíður spenntur eftir að segja öllum öðrum frá því sem gerist. Ef þú vilt ekki að það sé spillt fyrir þér skaltu hliðgangast bókagagnrýni því þú veist aldrei hvort mikilvæg atriði úr bókinni koma fram í þeim. Það eru bókagagnrýnendur sem byrja gagnrýnin sín með orðunum ,,varúð spilling!". Þá er búið að vara þig við. Ef þú byrjar samræður með einhverjum sem hefur núþegar lesið bókina þá geturðu látið manneskjuna vita að þú viljir ekki vita hvernig bókin endar.
+7. Búðu til þinn eigin lista af bókum sem þú vilt lesa með því að finna aðra með sömu áhugamál og þú.
+Þú getur fundið hópa á samfélagsmiðlum fyrir fólk með sömu áhugamál og þú, spjallað við þau og fengið meðmæli. Ef þú ert ennþá ekki búinn að finna bók til að lesa þá geturðu alltaf gerst meðlimur í hópum á samfélagsmiðlum og vonandi hafa meðlimir hópsins einhver áhrif á þig sem hjálpar til við að finna bók. Þú getur líkað fylgst með áhrifavöldum sem eru með svipuð áhugamál og þú. Á Instagram geturðu leitað að lykilorðum, sem dæmi mætti nefna bókaelskandi, lesandi og bók.
 
-8. Ekki leita að efni á netinu sem spillir fyrir þér
-Þú getur aðeins kennt þér sjálfum um ef þú ferð að vafra um netið í leit að spillingum um bókina.
+8. Byrjaðu í bókaklúbb eða stofnaðu þinn eiginn klúbb.
+Í bókaklúbbum er rætt um bækur af öllum tegundum. Það getur ýtt undir áhuga þinn við að lesa meira ef þú ert í bókaklúbb en það getur líka hjálpað þér að eignast fleiri vini. Það eru svo margir bókaklúbbar til og er því mikilvægt að þú veljir klúbb sem leggur áherslu á það sem þú hefur áhuga á. Starfsfólk í bókasölum eða bókasöfnum gætu vitað um einhverja bókaklúbba sem þú gætir gengið í.
 
-9. Mundu að það er ekki hægt að spilla fyrir þér vel skrifaða bók
-Margir bókaormar hafa komið fram með þá skoðun að það veiti alltaf meiri ánægju að lesa sömu bók oftar en einu sinni. Stundum þarftu tíma til að melta söguna áður en þú getur byrjað á byrjun bókarinnar aftur. Ef þú hugsar um Titanic þá er bíómyndin byggð á atburði sem átti sér stað fyrir næstum heillri öld áður en kvikmyndin var gerð. Það vissu allir hvernig myndin endaði en samt var þetta ein vinsælasta bíómynd allra tíma. Það er aldrei tilgangslaust að lesa bók eftir að einhver spillir. Annað dæmi um spillingu er úr þáttaröðinni Doctor Who þar sem Vincent Van Gogh kemur fram. Allir vita hver Van Gogh og margir vita líka að hann svipti sir lífi ungur að aldri. Þessar upplýsingar höfðu samt engin áhrif því þátturinn var um líf Van Gogh ekki dauða hans. Þátturinn fékk mjög góða dóma þar sem þátturinn snérist um fegurð, vanmátt hans þrátt fyrir gríðarlega hæfileika og mikilvægi þess í lífi hvers og eins að skilja eftir arfleið. Söguspilling breytir ekki mikilfenglegri sögu. 
+9. Skrunaðu í gegnum lista af því sem bókasöfn mæla með
+Á vefsíðu bókasafna er hægt að velja bókaflokka, höfunda, aldursbil. Veldu það sem á við í hverjum flokk og byrjaðu að leita að því sem fangar áhuga þinn og vistaðu bókina einhverstaðar svo hún gleymist ekki. Í sumu tilfellum er hægt að leigja bókina í netútgáfu, þá þarftu ekki einu sinni að fara út úr húsi til að sækja bókina.
+
+10. Ráfaðu um bókahillurnar í bókasafni þar til þú lendir á bók sem þú hefur áhuga á
+Leitaðu að efni sem þú hefur áhuga á, hvort sem það er fantasía, sögulegur skáldskapur eða spennusögur. Þegar þú hefur fundið bók skaltu lesa aftan á bókina og ákveða eftirá hvort bókin sé fyrir þig eða ekki. Ekki leyfa bókarkápunni að hafa áhrif á þitt val.
+
+11. Veldu bók af handahófi úr hillu þinni
+Næsta uppáhaldsbókin þín er oft að bíða eftir þér á bókahillunni án þess að þú vitir af því. Áður en þú hleypur út í búð til að kaupa nýja bók skaltu fyrst fara í gegnum bækurnar sem þú átt núþegar. Þú getur líka kíkt við hjá ættingjum eða vinum og fengið lánað bók hjá þeim. Mundu samt að ef þú færð lánaða bók þá verður þú að lána þeim til baka.
+
+12. Lestu í gegnum fyrst kaflann til þess fá tilfinningu fyrir rithættinum
+Ef fyrsti kaflinn fangar ekki áhuga þinn þá eru einhverjar líkur á að restin verði ekki betri. Ef þér finnst fyrsti kaflinn góður þá eru miklar líkur á að þú hafir fundið þína bók. Það er mjög sniðugt að gera þetta þegar þú ert með nokkrar bækur sem þú getur ekki ákveðið á milli. Oft er hægt að hlusta á sýnishorn úr hljóðbók.
+
+13. Athugaðu hvort að uppáhaldsbíómyndin þín sé gerð eftir bók
+Hver segir að þér muni ekki finnast bókin góð ef þér fannst bíómyndin góð? Leitaðu á netinu að bók sem gæti hafa verið grunnurinn að góðri bíómynd. Ef þú finnur bókina þá skaltu íhuga að lesa hana, líkurnar eru miklar á að þér eigi eftir að líka jafnvel við bókina. Það er líka gaman að komast að því hvernig bíómyndin og bókin er líkar og ólíkar á sama tíma. Hvort fannst þér bókin eða bíómyndin skemmtilegri? Frægar bíómyndir sem byggðar eru á bókum eru Harry Potter, hringadróttingssaga, litlar konur, Líf Pí og Carrie.
+
+14. Finndu höfundinn sem fékk þig til að sökkva þér í bókalestur
+Miklar líkur eru að uppáhaldshöfundurinn þinn hafi orðið fyrir áhrifum frá öðrum höfundi. Ef þú getur komist að því hvað uppáhaldshöfundurinn þinn hefur lesið áður, eða hvað hann mælir með þá eru miklar líkur á að þú eigir eftir að njóta þess að lesa það sama. Þú getur fylgst með höfundinum á samfélagsmiðlum eða fundið viðtal við hann þar sem hann talar um bækur eftir aðra höfunda og lesið þær bækur.

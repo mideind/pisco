@@ -1,0 +1,39 @@
+Subscribing 
+1 
+Subscribe to a broadband service first. Broadband uses the networks of telecommunication companies, so you have to subscribe to a service first before you can start surfing. Contact your local Internet service provider or telecommunications company to know what kind of broadband services you can avail. 
+
+2 
+Check your broadband package. Once you have subscribed, you’ll be given a broadband package that contains the following: 
+An Internet modem or router with power adapter 
+1 piece Internet cable 
+1 piece telephone cable 
+Phone filters 
+1 piece ADSL splitter 
+These are the items you need to install a broadband Internet, which will be explained as you proceed. 
+
+Part 2 
+Installing 
+
+1 
+Connect the ADSL splitter to your phone. Start by unplugging your telephone from the wall socket and connecting the ADSL splitter. 
+Broadband runs on digital signal while telephones run on analog. Splitters split the digital and analog signal coming from the telephone lines between your computer and your telephone so they don’t get mixed up. 
+
+2 
+Filter other telephone extensions. If you have other telephone units in your house, take a phone filter and connect it in between your phone and the wall socket, just like how you connected the ADSL filter. 
+The phone filter works just like the ADSL splitter, but instead of splitting the signals between analog and digital, it filters out the digital signal so it won’t mess up your phone when you use it. 
+
+3 
+Connect your phone to one of the ports on the ADSL splitter labeled “Tel.” Take the telephone cable that came with the broadband package and plug it to the DSL port on the splitter. 
+
+4 
+Plug the other end of that telephone cable and connect it to the back of the modem/router provided. There’s only one port on the router/modem that the telephone cable can fit into (the smaller one), so connecting it to the right port should be easy. 
+
+5 
+Take the Internet cable from the broadband package and plug it into one of the Internet ports behind the router/modem. Most routers have four Internet ports; you can plug the cable to any of these four ports. 
+
+6 
+Take the other end of the Internet cable and plug it to the Internet port at the back of your computer (located near the speaker ports) or laptop (along the sides or at the back). There’s only one port on your PC that the Internet cable can fit to, so it won’t be hard locating the port. 
+
+7 
+Connect the power cable to the router or modem and plug it to a power outlet. Press the modem/router’s Power button and the lights on the router or modem should blink; meaning it is booting up. 
+Once the lights have steadied out, turn on your computer, open a web browser, and start surfing the network. 

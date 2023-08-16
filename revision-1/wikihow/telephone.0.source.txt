@@ -1,0 +1,43 @@
+What's the Best Way to Charge Your Phone? 7 Tips for Extending Your Battery Life
+
+Is it okay to charge your phone overnight? 
+
+Ideally, you shouldn't charge your phone overnight. 
+If your phone is powered on, it will continue to lose battery life even when it's connected to the charger. This prompts your charger to keep charging the battery back to 100%. Over time, this decreases your battery life.
+Your phone only needs 1-2 hours to charge to 100%. 
+Phone batteries come with a limited capacity. Leaving your phone charged overnight regularly can make it reach that capacity sooner. It takes about 2 years to start noticing the damage, but avoid keeping your phone charged overnight every night. 
+
+Should you always charge your phone to 100%? 
+
+No, always charging your battery to 100% wears it down over time. 
+It takes a lot of energy to keep your phone at 100%. To make your battery last as long as possible, try to keep your phone at a charge between 20% and 80% at all times.[2] 
+Keeping your phone's charge between 20% and 80% helps the lithium ions in your battery stay balanced.[3] This balance puts much less strain on your battery life than a full charge. 
+Should I let my phone die before charging it? 
+
+Charging your phone from 0% to 100% degrades the battery over time. 
+It takes a lot more energy to give your phone a full charge than a partial charge. Try to charge your phone once it gets down to 35% to 40% so that your charger only needs to partially charge your phone.
+How can you make your phone charge last? 
+
+1 
+Reduce the screen brightness. 
+Keeping the screen bright while you aren't using it or in need of the extra light makes you lose charge sooner. Go into your phone's settings and lower the screen's brightness to make your charge last as long as possible.
+
+2 
+Cut back on the time your phone takes to go to sleep. 
+If it takes up to 2-3 minutes for your screen to go to sleep when you're not using it, that can really drain your phone charge. Go into settings and reduce the time to 30 seconds to 1 minute to save your charge.
+
+Will unofficial chargers harm your battery? 
+
+Unofficial chargers might decrease your battery power over time. 
+The safety standards of unofficial chargers aren't as foolproof as the charger that came with your phone. These may deliver too much current to your battery, which can cause your battery power to decrease over time. Some unofficial chargers may not do this, but you may want to stick to the official brand charger to be safe.[8] 
+
+Does fast charging damage your battery? 
+
+Fast chargers won't damage your battery. 
+Fast chargers are phone chargers with a higher wattage, which allows them to charge your phone at a quicker pace. When you use a fast charger to charge your phone, it goes through 2 phases. The first phase uses the most power, taking your phone to a certain level of charge faster than a standard charger. To prevent overheating, the charger slows down in the second stage as it charges your phone the rest of the way.
+Usually, anything above 10 watts is considered a fast charger. The higher the wattage, the faster the charger will be. 
+Though fast chargers won't damage your phone, they are more expensive than standard chargers. 
+Does heat damage a phone battery? 
+
+Hot temperatures overheat the battery, which leads to damage. 
+Heat disintegrates the liquid electrolytes in your phone's battery. These are necessary to retain your battery's structure, and as they break down, your battery's power diminishes over time. To prevent this, keep your phone at room temperature, and avoid leaving your phone in the car or in the sun.[10] 
